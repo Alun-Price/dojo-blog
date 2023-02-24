@@ -23,6 +23,12 @@
       "body": "Mario gets to write this time!!!!",
       "author": "mario",
       "id": 4
+    },
+    {
+      "title": "Test history.push",
+      "body": "To test if we can redirect back to the Home page after POST submit",
+      "author": "yoshi",
+      "id": 5
     }
   ]
 }
