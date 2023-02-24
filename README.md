@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# How to Get Started with this Project
+
+### npm run start
+
+This will run the app at http://localhost:3000
+
+Open up a separate terminal ...
+
+### npx json-server --watch data/db.json --port 8000
+
+This will run the json-server that will give you access to the data at db.json.
+This will populate the app with blogs and allow you to add/delete a blog ..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
