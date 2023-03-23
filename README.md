@@ -2,6 +2,22 @@
 
 ![image](screenshots/dojo-blog.png)
 
+## Project Description
+
+In this project, we created a micro-blog using React from the ground up.
+We used the json-server package to provide a quick pseudo backend.
+
+Areas covered;
+
+- react setup using create-react-app
+- JSX templates
+- components
+- events
+- state
+- use of hooks
+- React Router
+- asynchronous code in components
+
 ## How to Get Started with this Project
 
 ### npm run start
