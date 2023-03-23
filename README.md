@@ -4,7 +4,7 @@
 
 ## Link to demo
 
-[React Micro Blog demo ](https://alun-react-microblog.netlify.app/)
+[React Micro-Blog demo site](https://alun-react-microblog.netlify.app/)
 
 ## Project Description
 
