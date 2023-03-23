@@ -1,6 +1,6 @@
 # React Tutorial - Build A Micro-Blog (with json-server)
 
-image.png
+![image](screenshots/dojo-blog.png)
 
 ## How to Get Started with this Project
 
