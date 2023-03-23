@@ -2,6 +2,10 @@
 
 ![image](screenshots/dojo-blog.png)
 
+## Link to demo
+
+[React Micro Blog demo ](https://alun-react-microblog.netlify.app/)
+
 ## Project Description
 
 In this project, we created a micro-blog using React from the ground up.
