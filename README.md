@@ -1,5 +1,7 @@
 # React Tutorial - Build A Micro-Blog (with json-server)
 
+image.png
+
 ## How to Get Started with this Project
 
 ### npm run start
@@ -16,10 +18,13 @@ This will populate the app with blogs and allow you to add/delete a blog ..
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### Resources
+
 http://localhost:8000/blogs
- 
+
 #### Home
-http://localhost:8000/ 
+
+http://localhost:8000/
 
 #### Endpoints Used
+
 ![image](https://user-images.githubusercontent.com/14994696/221088786-a7e8bd72-1c16-464e-a9ab-f0a215b83b8c.png)
