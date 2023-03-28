@@ -8,11 +8,11 @@ const BlogDetails = () => {
     data: blog,
     error,
     isPending,
-  } = useFetch("https://json-server-psi-black.vercel.app:8000/blogs/" + id);
+  } = useFetch("https://json-server-psi-black.vercel.app/blogs/" + id);
   const history = useHistory();
 
   const handleClick = () => {
-    fetch("https://json-server-psi-black.vercel.app:8000/blogs/" + blog.id, {
+    fetch("https://json-server-psi-black.vercel.app/blogs/" + blog.id, {
       method: "DELETE",
     }).then(() => {
       history.push("/");
