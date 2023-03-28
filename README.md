@@ -9,7 +9,7 @@
 ## Project Description
 
 In this project, we created a micro-blog using React from the ground up.
-We used the json-server package to provide a quick pseudo backend.
+The json-server is deployed separately on Vercel and is used to provide a quick pseudo backend.
 
 Areas covered;
 
